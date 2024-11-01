@@ -1,0 +1,2 @@
+# Gestion d'Étudiants
+Ce projet vise à gérer les informations des étudiants en utilisants la POO. Il permet de créer des instances d'étudiants, d'afficher leurs informations et les gérer de manière modulaire.
